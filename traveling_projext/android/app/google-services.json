@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080827301269",
+    "project_id": "travelling-b6623",
+    "storage_bucket": "travelling-b6623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080827301269:android:9c83f87a24be5c5d223a9c",
+        "android_client_info": {
+          "package_name": "com.aimers.Travelling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ata5ZUGgR9GSe27VCSbwpBCt7vcNzuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
